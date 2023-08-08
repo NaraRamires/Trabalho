@@ -1,3 +1,3 @@
-# Barbie
-#repositorio da BArbie pra ter um conteudo bom
-##o filme até que é legal
+# patinho
+#repositorio do patinho pra ter um conteudo bom
+#devo contar historias do patinho?
