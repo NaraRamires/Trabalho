@@ -1,2 +1,3 @@
 # Barbie
-#repositorio do primeiro trabalho sobre GitHug
+#repositorio da BArbie pra ter um conteudo bom
+##o filme até que é legal
