@@ -1,6 +1,5 @@
-# patinho
-#repositorio do patinho pra ter um conteudo bom
-#devo contar historias do patinho?
-#meme de pato
-#pato é fofo
-
+#jogo de cabelo
+#jogo entre irmãs
+#rivais
+#copetição
+#o jogo se passa entre duas garotas onde uma é de um estilo fofo e a outra tem um estilo de rock
